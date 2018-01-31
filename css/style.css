@@ -476,3 +476,34 @@ table {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }
+
+/***********************************
+Mentor Team
+added onto delicious
+************************************/
+.pm-staff-profile-image{
+    width: 150px;
+    height: 150px;
+    background-color: #C6C6C6;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .pm-staff-profile-details {
+      padding: 20px 20px;
+  }
+  .pm-staff-profile-name {
+      font-size: 24px;
+      text-transform: capitalize;
+      color: #2b5d83;
+  }
+  .pm-staff-profile-title {
+      text-transform: capitalize;
+      color: #4b4b4b;
+      font-weight: 500;
+      padding: 12px 0px;
+  }
+  .pm-staff-profile-bio {
+    text-transform: capitalize;
+    color: #4b4b4b;
+    font-weight: 100;
+  }
